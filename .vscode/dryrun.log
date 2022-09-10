@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `m:/CH583_KBD_OS'
+make.exe: Leaving directory `m:/CH583_KBD_OS'
+ 
+make.exe: *** û��ָ��Ŀ�겢���Ҳ��� makefile�� ֹͣ��
+
